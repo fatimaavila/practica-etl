@@ -45,4 +45,7 @@ Se  comprueba que el ambiente esté bien controlado y que funcione para hacer un
 
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/69205813/220820009-ed2c987d-c348-4314-8951-39ea6a06c888.png">
 
+## Paso 5
+
+[Con ayuda de este post,](https://towardsdatascience.com/how-to-run-jupyter-notebook-on-docker-7c9748ed209f) se levantó un ambiente de python/jupyer en nuestro container.
 
