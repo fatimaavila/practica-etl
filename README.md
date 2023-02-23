@@ -49,3 +49,9 @@ Se  comprueba que el ambiente esté bien controlado y que funcione para hacer un
 
 [Con ayuda de este post,](https://towardsdatascience.com/how-to-run-jupyter-notebook-on-docker-7c9748ed209f) se levantó un ambiente de python/jupyer en nuestro container.
 
+## Manejo de datos e inserción
+
+No se vio necesario realizar los 4 notebooks ni archivos para la creación de la base de datos ya que era más sencillo hacerlo en un para el levantarlo y procesamiento de las Data Frames
+
+
+
